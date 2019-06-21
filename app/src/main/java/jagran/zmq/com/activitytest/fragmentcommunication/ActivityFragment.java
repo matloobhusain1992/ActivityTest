@@ -48,6 +48,10 @@ public class ActivityFragment extends AppCompatActivity implements FragmentOne.F
         fragmentTransaction.add(R.id.fragment_one,fragmentOne);
         fragmentTransaction.add(R.id.fragment_two,fragmentTwo);
         fragmentTransaction.commit();
+
+
+
+
     }
 
     @Override
