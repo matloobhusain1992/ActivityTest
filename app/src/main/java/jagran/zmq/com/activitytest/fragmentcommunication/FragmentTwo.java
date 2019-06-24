@@ -21,7 +21,7 @@ import jagran.zmq.com.activitytest.R;
  * Created by zmq181 on 8/8/17.
  */
 
-public class FragmentTwo extends Fragment{
+public class FragmentTwo extends Fragment {
 
     private ListView lv;
     private EditText et;
