@@ -40,7 +40,7 @@ public class C extends AppCompatActivity {
     }
 
 
-    public void activityCClick(View view) {
+    public void activityClick(View view) {
         Intent intent = new Intent(this , D.class);
         startActivity(intent);
     }
