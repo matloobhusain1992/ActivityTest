@@ -55,7 +55,7 @@ public class A extends AppCompatActivity {
 
     public void activityClick(View view) {
         Intent intent = new Intent(this , B.class);
-        startActivityForResult(intent,1);
+        startActivity(intent);
     }
 
     @Override
