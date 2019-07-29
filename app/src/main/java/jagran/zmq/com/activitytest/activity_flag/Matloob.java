@@ -6,4 +6,5 @@ package jagran.zmq.com.activitytest.activity_flag;
 
 public class Matloob {
     int a = 10;
+    int b;
 }
