@@ -7,7 +7,7 @@
     tools:context="jagran.zmq.com.activitytest.activity_flag.C"
     android:orientation="vertical"
     android:gravity="center"
-    android:onClick="activityCClick">
+    android:onClick="activityClick">
 
     <TextView
         android:text="Activity C"

@@ -27,6 +27,7 @@ public class CustomDialogClass extends Dialog implements View.OnClickListener {
     public CustomDialogClass(Activity a) {
         super(a);
         // TODO Auto-generated constructor stub
+        // TODO Auto-generated constructor stub
         this.c = a;
     }
 
