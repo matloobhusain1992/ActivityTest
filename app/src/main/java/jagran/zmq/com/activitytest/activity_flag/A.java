@@ -28,6 +28,9 @@ public class A extends AppCompatActivity {
         setContentView(R.layout.activity_a);
         System.out.println("A onCreate");
         System.out.println("master husain");
+        System.out.println("Hii Dear");
+        System.out.println("child added matloob");
+        System.out.println("child added husain");
     }
 
     @Override
