@@ -45,6 +45,8 @@ public class A extends AppCompatActivity {
         System.out.println("master 5");
         System.out.println("master 6");
         System.out.println("master 7");
+        System.out.println("nokia 6");
+        System.out.println("nokia 7");
     }
 
     @Override
