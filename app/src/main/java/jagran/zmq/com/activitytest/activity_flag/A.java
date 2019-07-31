@@ -42,6 +42,7 @@ public class A extends AppCompatActivity {
         System.out.println("master 3");
         System.out.println("feature 3");
         System.out.println("master 4");
+        System.out.println("master 5");
     }
 
     @Override
