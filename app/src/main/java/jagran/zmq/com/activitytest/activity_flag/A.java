@@ -35,6 +35,7 @@ public class A extends AppCompatActivity {
         System.out.println("child added rahil");
         System.out.println("master added sahil");
         System.out.println("child  sahil");
+        System.out.println("feature 1");
     }
 
     @Override
