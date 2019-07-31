@@ -29,6 +29,7 @@ public class A extends AppCompatActivity {
         System.out.println("A onCreate");
         System.out.println("Hii Dear");
         System.out.println("child added matloob");
+        System.out.println("child added husain");
     }
 
     @Override
