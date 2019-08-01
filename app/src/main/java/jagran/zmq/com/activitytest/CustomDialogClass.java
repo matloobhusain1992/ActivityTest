@@ -18,7 +18,7 @@ import android.widget.ImageView;
 public class CustomDialogClass extends Dialog implements View.OnClickListener {
 
     public Activity c;
-    public Dialog d;
+    public Dialog d,y;
     public Button yes, no;
     ImageButton button;
     public static Handler handler;
