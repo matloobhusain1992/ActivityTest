@@ -26,29 +26,6 @@ public class A extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_a);
-        System.out.println("A onCreate");
-        System.out.println("master husain");
-        System.out.println("Hii Dear");
-        System.out.println("child added matloob");
-        System.out.println("child added husain");
-        System.out.println("master added rahil");
-        System.out.println("child added rahil");
-        System.out.println("master added sahil");
-        System.out.println("child  sahil");
-        System.out.println("master 1");
-        System.out.println("master 2");
-        System.out.println("feature 1");
-        System.out.println("feature 2");
-        System.out.println("master 3");
-        System.out.println("feature 3");
-        System.out.println("master 4");
-        System.out.println("master 5");
-        System.out.println("master 6");
-        System.out.println("master 7");
-        System.out.println("nokia 6");
-        System.out.println("nokia 7");
-        System.out.println("nokia 8");
-        System.out.println("master 8");
     }
 
     @Override
