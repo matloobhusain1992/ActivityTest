@@ -17,7 +17,7 @@ import java.util.List;
 import jagran.zmq.com.activitytest.R;
 
 public class XMLPArsingActivity extends AppCompatActivity {
-    int a;
+    int a,b;
 
     private List<Employee> employeeList;
     private Employee employee;
