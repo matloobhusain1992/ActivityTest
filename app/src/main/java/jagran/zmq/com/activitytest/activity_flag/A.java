@@ -34,6 +34,7 @@ public class A extends AppCompatActivity {
         System.out.println("A onRestart");
         System.out.println("master 1");
         System.out.println("Child 1");
+        System.out.println("Child 2");
     }
 
     @Override
