@@ -32,6 +32,7 @@ public class A extends AppCompatActivity {
     protected void onRestart() {
         super.onRestart();
         System.out.println("A onRestart");
+        System.out.println("master 1");
     }
 
     @Override
