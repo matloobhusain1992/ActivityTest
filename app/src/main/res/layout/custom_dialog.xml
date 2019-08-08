@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:gravity="center_horizontal"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/txt_dia"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#000000"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="Write on NFC Tag"
+        android:textColor="#ffffff"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <ImageButton
+        android:id="@+id/aaaa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_dia"
+        android:background="@drawable/vol_one"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/txt_dia2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/aaaa"
+        android:layout_gravity="center"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="Approach an NFC Tag"
+        android:textColor="@android:color/black"
+        android:textSize="25dp" />
+
+
+    <!--<Button-->
+    <!--android:id="@+id/btn_yes"-->
+    <!--android:layout_width="150dp"-->
+    <!--android:layout_height="70dp"-->
+    <!--android:background="@android:color/holo_blue_dark"-->
+    <!--android:clickable="true"-->
+    <!--android:text="Yes"-->
+    <!--android:textSize="40dp"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:layout_alignParentLeft="true"-->
+    <!--android:textColor="#5DBCD2"-->
+    <!--android:textStyle="bold" />-->
+
+    <Button
+        android:id="@+id/btn_no"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="5dp"
+        android:background="#ffffff"
+        android:clickable="true"
+        android:text="Cancel"
+        android:textColor="#000000"
+        android:textSize="20dp" />
+
+</RelativeLayout>
